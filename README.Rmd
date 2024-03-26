@@ -1,0 +1,20 @@
+---
+title: "Reassessing Human MHC-I Genetic Diversity in T Cell Studies"
+output: md_document
+date: "2024-03-26"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Figure 1 and Figure 2:
+
+[Click here](https://github.com/roderickslieker/HLA_Disparity/blob/master/001_MHC_Complexes.md)
+
+### Figure 3
+
+[Click here](https://github.com/roderickslieker/HLA_Disparity/blob/master/001_MHC_Complexes.md)
+
+### Figure S3
+[Click here](https://github.com/roderickslieker/HLA_Disparity/blob/master/001_MHC_Complexes.md)
